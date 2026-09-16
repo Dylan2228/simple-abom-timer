@@ -1,0 +1,13 @@
+# PyInstaller build directories
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Test artifacts
+roblox_test_logs_*
